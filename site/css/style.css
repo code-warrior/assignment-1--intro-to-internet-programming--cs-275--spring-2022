@@ -1,0 +1,49 @@
+header {
+  font-size: larger;
+  font-weight: bold;
+  font-family: Arial;
+}
+
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 50px;
+  font-weight: bold;
+  color: blue;
+}
+h2 {
+  color: grey;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 35px;
+  margin-left: 50px;
+}
+
+
+body {
+  background-color: #8EC7F0;
+}
+
+img {
+  float: left;
+  height: 150px;
+}
+
+.contenedor {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+  font-weight: bold;
+  text-shadow: 3px 2px gray;
+  height: 180px;
+  width: 800px;
+  margin-top: 20px;
+  margin-left: 50px;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+.informationheader {
+  height: 50px;
+  width: 800px;
+  margin-left: 35px;
+
+}
