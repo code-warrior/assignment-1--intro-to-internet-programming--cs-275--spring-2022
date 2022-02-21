@@ -1,6 +1,7 @@
 /* Make the text color just a tinge lighter than true black */
 html {
   color: #222;
+  text-color: #222;
 }
 h1 {
 
