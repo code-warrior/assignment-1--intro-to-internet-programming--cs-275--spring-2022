@@ -1,11 +1,17 @@
+* {
+  background-color: hsl(238, 4%, 50%); /*gray blue*/
+}
 /* Make the text color just a tinge lighter than true black */
 html {
   text-color: #222;
+  text-margin: 10px;
 }
 
 header {
-  background-color: #ccc;
   font-family: Arvo, sans-serif;
+  font-size: 32px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 h1 {
@@ -15,13 +21,81 @@ h1 {
 
 main {
   background-color: hsl(232, 84%, 70%);
+  border: solid 2px;
+  border-color: hsl(212, 39%, 82%);
+  border-radius: 18px;
   font-family: Lato, sans-serif;
+  font-size: 18px;
+  overflow: hidden;
 }
 
 p:first-of-type {
   font-weight: 400;
+  padding-top: 12px;
+  padding-left: 2px;
+  padding-bottom: 12px;
+  padding-right: 2px;
 }
 
-p:nth-child(2){
+p:nth-child(2) {
   font-weight: 400;
+  padding-left: 2px;
+  padding-bottom: 12px;
+  padding-right: 2px;
+}
+
+p:nth-child(3) {
+  font-weight: 400;
+  padding-left: 2px;
+  padding-bottom: 12px;
+  padding-right: 2px;
+}
+
+p:nth-child(4) {
+  font-weight: 400;
+  padding-left: 2px;
+  padding-bottom: 12px;
+  padding-right: 2px;
+}
+
+p:nth-child(5) {
+  font-weight: 400;
+  padding-left: 2px;
+  padding-bottom: 12px;
+  padding-right: 2px;
+}
+
+p:nth-child(6) {
+  font-weight: 400;
+  padding-left: 2px;
+  padding-bottom: 12px;
+  padding-right: 2px;
+}
+
+p:nth-child(7) {
+  font-weight: 400;
+  padding-left: 2px;
+  padding-bottom: 12px;
+  padding-right: 2px;
+}
+
+p:nth-child(8) {
+  font-weight: 400;
+  padding-left: 2px;
+  padding-bottom: 12px;
+  padding-right: 2px;
+}
+
+p:nth-child(9) {
+  font-weight: 400;
+  padding-left: 2px;
+  padding-bottom: 12px;
+  padding-right: 2px;
+}
+
+p:last-of-type {
+  font-weight: 400;
+  padding-left: 2px;
+  padding-bottom: 12px;
+  padding-right: 2px;
 }
