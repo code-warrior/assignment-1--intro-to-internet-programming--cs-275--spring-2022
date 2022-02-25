@@ -1,7 +1,7 @@
 * {
   background-color: hsl(180, 0%, 42%); /*gray*/
 }
-/* Make the text color just a tinge lighter than true black */
+
 html {
   text-color: #222;
   text-margin: 10px;
