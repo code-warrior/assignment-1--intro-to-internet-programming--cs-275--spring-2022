@@ -1,4 +1,8 @@
 
+
+  body{
+    background-color: #00bfff;
+  }
 h1, h2, div {
  text-align: center;
  font-weight: 500;
@@ -34,7 +38,7 @@ a {
 }
 
 a:link {
- color: #57a;
+ color: #800080;
 }
 
 a:visited {
