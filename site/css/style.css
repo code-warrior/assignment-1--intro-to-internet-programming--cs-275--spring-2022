@@ -8,14 +8,22 @@ html {
 
 header {
   font-family: Arvo, sans-serif;
-  font-size: 32px;
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 12px;
 }
 
 h1 {
   font-weight: 700;
-  font-style: bold;
+  font-size: 32px;
+}
+
+h2 {
+  padding-top: 8px;
+}
+
+h3 {
+  font-weight: 700;
+  font-size: 24px;
 }
 
 main {
