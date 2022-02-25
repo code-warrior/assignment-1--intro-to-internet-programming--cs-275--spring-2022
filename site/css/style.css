@@ -117,3 +117,7 @@ p:last-of-type {
   padding-bottom: 12px;
   padding-right: 2px;
 }
+
+footer {
+  padding-top: 12px;
+}
