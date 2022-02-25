@@ -2,14 +2,19 @@ body{
 
 }
 
+header{
+  background-color: #D3D3D3;
+}
+
 h1 {
   display: block;
   font-size: 36px;
-  margin-top: 10.72px;
-  margin-bottom: 10.72px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   margin-left: 0px;
   margin-right: 0px;
   font-weight: bold;
+  text-align: center;
 }
 h2 {
   display: block;
