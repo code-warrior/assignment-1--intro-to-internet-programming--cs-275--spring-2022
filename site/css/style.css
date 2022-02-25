@@ -2,6 +2,10 @@ body{
   background-color: #7D89E6;
 }
 
+main{
+  text-align: center;
+}
+
 header{
   background-color: #575FA1;
 }
@@ -26,7 +30,7 @@ h2 {
   font-weight: bold;
 }
 
-a { text-decoration: none; color:red; }
+a { text-decoration: none; color:#A6420D; }
 a:visited { text-decoration: none; }
 a:hover { text-decoration: none; }
 a:focus { text-decoration: none; }
