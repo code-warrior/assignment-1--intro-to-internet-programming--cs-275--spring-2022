@@ -28,8 +28,8 @@ h3 {
 
 main {
   background-color: hsl(232, 84%, 70%);
-  border: solid 2px;
-  border-color: hsl(212, 39%, 82%);
+  border: solid 5px;
+  border-color: white;
   border-radius: 18px;
   font-family: Lato, sans-serif;
   font-size: 18px;
